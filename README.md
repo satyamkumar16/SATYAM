@@ -1,2 +1,3 @@
 # SATYAM
 THIS IS MY FIRST GIT REPOSITORY.
+Author -Satyam Kumar
